@@ -1,10 +1,3 @@
-----------------------------------------------------------------------------------
--- Engineer: EFE ACER
--- Project Name: Pong Game
--- Brief: This code is a package consisting of data related to some frequently
---        used constants.
-----------------------------------------------------------------------------------
-
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 
