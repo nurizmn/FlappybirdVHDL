@@ -1,12 +1,3 @@
-----------------------------------------------------------------------------------
--- Engineer: EFE ACER
--- Project Name: Pong Game
--- Brief: This module is the one that does the painting job. It contains the dynamic
---        position data belonging to different objects, it scans the screen and compares
---        the positions of the cursors with the position data, then it colors the screen
---        in the desired intersections. 
-----------------------------------------------------------------------------------
-
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use ieee.numeric_std.all;
