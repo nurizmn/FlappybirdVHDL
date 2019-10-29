@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------
--- Engineer: EFE ACER
+-- Engineers: NURI ZAMAN-GÖKAY MERIÇ
 -- Project Name: Pong Game
 -- Brief: The top module of the project, receives its input from the board, generates
 --        the outputs using its submodules and sends them to the monitor from the board. 
