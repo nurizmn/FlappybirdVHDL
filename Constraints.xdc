@@ -1,4 +1,4 @@
-##The constraints file that does the proper input-output mapping 
+##The constraints file that does the proper input-output mapping
 
 ## Clock signal
 set_property PACKAGE_PIN W5 [get_ports clock]
