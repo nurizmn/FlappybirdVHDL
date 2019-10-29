@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------
--- Engineer: NURI ZAMAN-GÖKAY MERIÇ
+-- Engineers: NURI ZAMAN-GÖKAY MERIÇ
 -- Project Name: Pong Game
 -- Brief: This module involves to serial connected T-flip flops to reduce the
 --        frequency of the Basys3 clock 4 times. It transfers the divided clock
