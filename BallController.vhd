@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------------- 
--- Engineer: EFE ACER
+-- Engineers: NURI ZAMAN-GÖKAY MERIÇ
 -- Project Name: Pong Game
 -- Brief: This is a module to compute and return the position of the ball according
 --        to the inputs given to it (positions of the paddles). The module interacts
